@@ -1,9 +1,12 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1548" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1948" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="zMkdTv4NI9FBBSWakreY-50" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
+          <mxGeometry height="890" width="470" x="340" y="260" as="geometry" />
+        </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-49" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
           <mxGeometry height="760" width="280" x="20" y="260" as="geometry" />
         </mxCell>
@@ -20,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="11. Single item or multi-item ticket?" vertex="1">
-          <mxGeometry height="100" width="140" x="310" y="170" as="geometry" />
+          <mxGeometry height="100" width="140" x="310" y="140" as="geometry" />
         </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-12" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkdTv4NI9FBBSWakreY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zMkdTv4NI9FBBSWakreY-11" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -35,10 +38,10 @@
           <mxGeometry height="100" width="140" x="530" y="280" as="geometry" />
         </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-9" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Single Item" vertex="1">
-          <mxGeometry height="30" width="70" x="190" y="230" as="geometry" />
+          <mxGeometry height="30" width="70" x="190" y="200" as="geometry" />
         </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Multiple Items" vertex="1">
-          <mxGeometry height="30" width="80" x="480" y="230" as="geometry" />
+          <mxGeometry height="30" width="80" x="480" y="200" as="geometry" />
         </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-14" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkdTv4NI9FBBSWakreY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zMkdTv4NI9FBBSWakreY-13" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -147,8 +150,11 @@
         <mxCell id="zMkdTv4NI9FBBSWakreY-48" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
           <mxGeometry height="30" width="60" x="500" y="1030" as="geometry" />
         </mxCell>
-        <mxCell id="zMkdTv4NI9FBBSWakreY-50" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="760" width="280" x="260" y="760" as="geometry" />
+        <mxCell id="zMkdTv4NI9FBBSWakreY-52" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;whiteSpace=wrap;html=1;align=center;" value="Single-item lane (12a / 13a)" vertex="1">
+          <mxGeometry height="40" width="180" x="-20" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-55" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;whiteSpace=wrap;html=1;align=center;" value="&#xa;Multi-item lane (12b / 13b)&#xa;&#xa;" vertex="1">
+          <mxGeometry height="40" width="170" x="610" y="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
