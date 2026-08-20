@@ -28,7 +28,7 @@
         <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font&gt;Quantity defaults to 1; Non-editable field&lt;/font&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="315" y="300" as="geometry" />
         </mxCell>
-        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quantity =User enters value; Max 10" vertex="1">
+        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quantity= User enters value; Max 10" vertex="1">
           <mxGeometry height="60" width="130" x="480" y="300" as="geometry" />
         </mxCell>
       </root>
