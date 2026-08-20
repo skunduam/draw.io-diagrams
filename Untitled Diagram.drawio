@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1948" dy="994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1368" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -155,6 +155,9 @@
         </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-55" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;whiteSpace=wrap;html=1;align=center;" value="&#xa;Multi-item lane (12b / 13b)&#xa;&#xa;" vertex="1">
           <mxGeometry height="40" width="170" x="610" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="YliEJRirULZ05k9zNF9N-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="530" y="618" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
