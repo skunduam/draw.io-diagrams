@@ -1,11 +1,35 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="dXtzK49_P1HQTVUXtMDc">
-    <mxGraphModel dx="1407" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="968" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="x8zhNEVhibxAb_IFU8ly-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="310" y="70" as="geometry" />
+        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-1" edge="1" parent="1" source="x8zhNEVhibxAb_IFU8ly-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VXQUEBV-Iq8M5Jz7yDUn-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="369.96296296296293" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x8zhNEVhibxAb_IFU8ly-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;1. User submits SNOW request (1 or more peripherals)&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="310" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-3" edge="1" parent="1" source="VXQUEBV-Iq8M5Jz7yDUn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384.5" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-4" edge="1" parent="1" source="VXQUEBV-Iq8M5Jz7yDUn-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="VXQUEBV-Iq8M5Jz7yDUn-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;fontSize=10;" value="Multiple items?" vertex="1">
+          <mxGeometry height="80" width="160" x="305" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;font&gt;Quantity defaults to 1; Non-editable field&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="130" x="315" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Quantity =User enters value; Max 10" vertex="1">
+          <mxGeometry height="60" width="130" x="480" y="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
