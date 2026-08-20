@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="dXtzK49_P1HQTVUXtMDc">
-    <mxGraphModel dx="968" dy="621" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1032" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,8 +71,8 @@
             <mxPoint x="380" y="819.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;nbsp;4-8. Build Amazon cart: Item ID, quantity required, EEID, Cost Centre, Comment, delivery location, Free delivery, Business Credit Account" vertex="1">
-          <mxGeometry height="90" width="195" x="282.5" y="670" as="geometry" />
+        <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4. Build Amazon cart: resolve each item via mapping table (Primary ASIN, price ceiling, Preference 1 / Preference 2 ASINs), EEID, Cost Centre, Comment, delivery location, Free delivery, Business Credit Account" vertex="1">
+          <mxGeometry height="90" width="280" x="240" y="670" as="geometry" />
         </mxCell>
         <mxCell id="VXQUEBV-Iq8M5Jz7yDUn-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Approved" vertex="1">
           <mxGeometry height="30" width="60" x="305" y="620" as="geometry" />
