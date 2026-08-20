@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="nddrh9pbTW3rXvYhjJ6Q">
-    <mxGraphModel>
+    <mxGraphModel dx="415" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-3" edge="1" parent="1" source="vzHHtmv_SyhSBTE3s0gS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vzHHtmv_SyhSBTE3s0gS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Exception triggered&lt;div&gt;&amp;nbsp;(E2 order placement / E3 tracking/ Any other)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="170" x="410" y="-90" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-5" edge="1" parent="1" source="vzHHtmv_SyhSBTE3s0gS-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vzHHtmv_SyhSBTE3s0gS-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="SNOW state set to&amp;nbsp;&lt;div&gt;Pending &amp;amp; work note with error/reason posted&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="420" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Email alert to ITAM group/assignee" vertex="1">
+          <mxGeometry height="60" width="150" x="420" y="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
