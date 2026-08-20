@@ -43,7 +43,7 @@
         <mxCell id="vzHHtmv_SyhSBTE3s0gS-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Before Order Placed" vertex="1">
           <mxGeometry height="30" width="80" x="660" y="360" as="geometry" />
         </mxCell>
-        <mxCell id="vzHHtmv_SyhSBTE3s0gS-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&amp;nbsp;Set to Pending Vendor -&amp;gt; Resume tracking" vertex="1">
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&amp;nbsp;Set to Pending Vendor -&amp;gt; Resume tracking at Step 12" vertex="1">
           <mxGeometry height="60" width="120" x="760" y="415" as="geometry" />
         </mxCell>
         <mxCell id="vzHHtmv_SyhSBTE3s0gS-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="During Tracking" vertex="1">
