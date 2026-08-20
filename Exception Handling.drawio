@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="nddrh9pbTW3rXvYhjJ6Q">
-    <mxGraphModel dx="968" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -25,6 +25,9 @@
         <mxCell id="vzHHtmv_SyhSBTE3s0gS-9" edge="1" parent="1" source="vzHHtmv_SyhSBTE3s0gS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vzHHtmv_SyhSBTE3s0gS-8" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-18" edge="1" parent="1" source="vzHHtmv_SyhSBTE3s0gS-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vzHHtmv_SyhSBTE3s0gS-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vzHHtmv_SyhSBTE3s0gS-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Team member resolves manually" vertex="1">
           <mxGeometry height="60" width="150" x="420" y="240" as="geometry" />
         </mxCell>
@@ -38,16 +41,34 @@
           <mxGeometry height="90" width="170" x="200" y="225" as="geometry" />
         </mxCell>
         <mxCell id="vzHHtmv_SyhSBTE3s0gS-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Set to Work In Progress -&amp;gt; resume at Step 10" vertex="1">
-          <mxGeometry height="60" width="120" x="110" y="350" as="geometry" />
+          <mxGeometry height="60" width="120" x="110" y="360" as="geometry" />
         </mxCell>
         <mxCell id="vzHHtmv_SyhSBTE3s0gS-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Before Order Placed" vertex="1">
           <mxGeometry height="30" width="80" x="90" y="300" as="geometry" />
         </mxCell>
         <mxCell id="vzHHtmv_SyhSBTE3s0gS-14" parent="1" style="whiteSpace=wrap;html=1;rounded=0;" value="&amp;nbsp;Set to Pending Vendor -&amp;gt; Resume tracking" vertex="1">
-          <mxGeometry height="60" width="120" x="270" y="350" as="geometry" />
+          <mxGeometry height="60" width="120" x="270" y="360" as="geometry" />
         </mxCell>
         <mxCell id="vzHHtmv_SyhSBTE3s0gS-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="During Tracking" vertex="1">
           <mxGeometry height="30" width="80" x="320" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-30" edge="1" parent="1" source="vzHHtmv_SyhSBTE3s0gS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="vzHHtmv_SyhSBTE3s0gS-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-17" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;rounded=0;" value="Ticket needs to be out of Automation scope?" vertex="1">
+          <mxGeometry height="100" width="150" x="640" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-27" edge="1" parent="1" source="vzHHtmv_SyhSBTE3s0gS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="vzHHtmv_SyhSBTE3s0gS-26" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-25" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="Manual Flag turned on" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Automation stands down completely -- team owns ticket fully until closure" vertex="1">
+          <mxGeometry height="60" width="160" x="680" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="vzHHtmv_SyhSBTE3s0gS-28" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
