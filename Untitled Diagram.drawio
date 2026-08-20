@@ -4,8 +4,32 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="zMkdTv4NI9FBBSWakreY-4" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkdTv4NI9FBBSWakreY-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="zMkdTv4NI9FBBSWakreY-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-0" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="10. SNOW ticket: Work In Progress" vertex="1">
           <mxGeometry height="60" width="120" x="320" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-6" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkdTv4NI9FBBSWakreY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zMkdTv4NI9FBBSWakreY-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-8" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkdTv4NI9FBBSWakreY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zMkdTv4NI9FBBSWakreY-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-3" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="11. Single item or multi-item ticket?" vertex="1">
+          <mxGeometry height="100" width="140" x="310" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Item Shipped?" vertex="1">
+          <mxGeometry height="100" width="140" x="90" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Items Shipped?" vertex="1">
+          <mxGeometry height="100" width="140" x="530" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-9" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Single Item" vertex="1">
+          <mxGeometry height="30" width="70" x="190" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Multiple Items" vertex="1">
+          <mxGeometry height="30" width="80" x="480" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
