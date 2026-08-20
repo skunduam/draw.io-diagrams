@@ -61,6 +61,9 @@
         <mxCell id="zMkdTv4NI9FBBSWakreY-19" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="SNOW state change to Closed Complete" vertex="1">
           <mxGeometry height="70" width="140" x="90" y="920" as="geometry" />
         </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-21" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Yes" vertex="1">
+          <mxGeometry height="30" width="60" x="100" y="380" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
