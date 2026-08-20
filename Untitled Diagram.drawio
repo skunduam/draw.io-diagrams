@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="774" dy="497" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1191" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-5" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Item Shipped?" vertex="1">
-          <mxGeometry height="100" width="140" x="90" y="330" as="geometry" />
+          <mxGeometry height="100" width="140" x="90" y="280" as="geometry" />
         </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-7" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Items Shipped?" vertex="1">
           <mxGeometry height="100" width="140" x="530" y="330" as="geometry" />
@@ -34,8 +34,32 @@
         <mxCell id="zMkdTv4NI9FBBSWakreY-10" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Multiple Items" vertex="1">
           <mxGeometry height="30" width="80" x="480" y="230" as="geometry" />
         </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-14" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkdTv4NI9FBBSWakreY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zMkdTv4NI9FBBSWakreY-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="zMkdTv4NI9FBBSWakreY-11" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;" value="Post customer visible comment: shipped + carrier + tracking#" vertex="1">
-          <mxGeometry height="70" width="140" x="90" y="490" as="geometry" />
+          <mxGeometry height="70" width="140" x="90" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-16" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkdTv4NI9FBBSWakreY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zMkdTv4NI9FBBSWakreY-15" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-13" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;" value="SNOW state change to Pending Vendor" vertex="1">
+          <mxGeometry height="70" width="140" x="90" y="534" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-18" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkdTv4NI9FBBSWakreY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zMkdTv4NI9FBBSWakreY-17" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-15" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="Delivered?" vertex="1">
+          <mxGeometry height="100" width="140" x="90" y="648" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-20" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="zMkdTv4NI9FBBSWakreY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="zMkdTv4NI9FBBSWakreY-19" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-17" parent="WIyWlLk6GJQsqaUBKTNV-1" style="whiteSpace=wrap;html=1;" value="Post customer comment: delivered + carrier + tracking#" vertex="1">
+          <mxGeometry height="70" width="140" x="90" y="792" as="geometry" />
+        </mxCell>
+        <mxCell id="zMkdTv4NI9FBBSWakreY-19" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;" value="SNOW state change to Closed Complete" vertex="1">
+          <mxGeometry height="70" width="140" x="90" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
